@@ -1,4 +1,4 @@
 # MarmolAlex_ASIX1_0373_A00_IntroGitHub
-PRIMER REPOSITORIO DEL CURSO 25-26 DE ASIX
-Es mi primera toma de contacto con GitHub
-Soy Alex
+# PRIMER REPOSITORIO DEL CURSO 25-26 DE ASIX
+# Es mi primera toma de contacto con GitHub
+# Soy Alex
