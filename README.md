@@ -34,6 +34,7 @@ hjirhgerjiohjgonetunhjetnhbnjdfohndflnhgodfnghjldfnbjdfnbjlndfbnfjlnbdfhdfjlnh e
 ![alt text](./imagen1.jpg "imagen ramdom de un archivo")
 
 | Jugador | Equipo | Nombre |
+|---------:|:------------------:|:----------------------|
 | 32 | Lakers | Magic Johnson |
 | 33 | Celtics | Boston Celtics |
 | 10 | Barça | Lamine Yamal |
