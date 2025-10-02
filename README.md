@@ -29,7 +29,11 @@ hjirhgerjiohjgonetunhjetnhbnjdfohndflnhgodfnghjldfnbjdfnbjlndfbnfjlnbdfhdfjlnh e
 ```html
 <p>Esto es un parrafo</p>
 ```
-[link](https://markdown.es/ "Manual oficial de Markdown")
+[Manual oficial de Markdown](https://markdown.es/ "texto adicional sobre el enlace")
 
 ![alt text](./imagen1.jpg "imagen ramdom de un archivo")
 
+| Jugador | Equipo | Nombre |
+| 32 | Lakers | Magic Johnson |
+| 33 | Celtics | Boston Celtics |
+| 10 | Barça | Lamine Yamal |
