@@ -28,5 +28,8 @@ hjirhgerjiohjgonetunhjetnhbnjdfohndflnhgodfnghjldfnbjdfnbjlndfbnfjlnbdfhdfjlnh e
 
 ```html
 <p>Esto es un parrafo</p>
-````
-[link](https://markdown.es/)
+```
+[link](https://markdown.es/ "Manual oficial de Markdown")
+
+![alt text](./imagen1.jpg "imagen ramdom de un archivo")
+
