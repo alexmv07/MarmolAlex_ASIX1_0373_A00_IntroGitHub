@@ -2,3 +2,4 @@
 ## PRIMER REPOSITORIO DEL CURSO 25-26 DE ASIX
 ### Es mi primera toma de contacto con GitHub
 #### Soy Alex
+Esto esta en __negrita__ 
